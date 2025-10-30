@@ -3,19 +3,31 @@
 # AIM:
 To draw the UML diagram for Hospital Management System.
 # SRS (Procedure):
-List of Programs:
+Create the following diagrams in StarUML:
 
-i) Usecase Diagram
+Use Case Diagram
 
-ii)Class Diagram
+Class Diagram
 
-iii)Activity Diagram
+Activity Diagram
 
-iv)Communication Diagram
+Package Diagram
 
-v)Package Diagram
+Communication Diagram
 
-vi)Sequence Diagram
+Sequence Diagram
+
+1 . The patient books and confirms an appointment with the receptionist.
+
+2 . After registration, the patient undergoes check-ups and tests.
+
+3 . A prescription is written based on the diagnosis.
+
+4 . The system checks if the prescribed medicine is available.
+
+5 . If available, medicine is dispensed; if not, it is procured first.
+
+6 . Finally, stocks are updated and the patient pays the bills.
 
 # DIAGRAMS:
 (upload all 6 diagrams)
